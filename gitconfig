@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = gh api johan.perrusson@hotmail.fr
+	email = johan.perrusson@hotmail.fr
 	name = JohanPer
